@@ -1,0 +1,20 @@
+﻿生成启动时间为 2018/4/9 16:14:06。
+     1>项目“D:\vs_project\YOUNGCHAT_S\YOUNGCHAT_S\YOUNGCHAT_S.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\YOUNGCHAT_S.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ClientSocket.cpp ServerSocket.cpp
+         ServerSocket.cpp
+         ClientSocket.cpp
+         正在生成代码...
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs_project\YOUNGCHAT_S\Debug\YOUNGCHAT_S.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\vs_project\YOUNGCHAT_S\Debug\YOUNGCHAT_S.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs_project\YOUNGCHAT_S\Debug\YOUNGCHAT_S.lib" /MACHINE:X86 Debug\YOUNGCHAT_S.res
+         Debug\ClientSocket.obj
+         Debug\ServerSocket.obj
+         Debug\stdafx.obj
+         Debug\YOUNGCHAT_S.obj
+         Debug\YOUNGCHAT_SDlg.obj
+         YOUNGCHAT_S.vcxproj -> D:\vs_project\YOUNGCHAT_S\Debug\YOUNGCHAT_S.exe
+     1>已完成生成项目“D:\vs_project\YOUNGCHAT_S\YOUNGCHAT_S\YOUNGCHAT_S.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.85
